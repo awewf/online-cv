@@ -16,49 +16,45 @@ sidebar:
     phone: 13032956307
     website: seachal.github.io #do not add http://
     # linkedin: alandoe
-    github: github.com/Seachal
+    github: Seachal # do not add http://github.com  e.g. Seahcal
     gitlab:
     bitbucket:
     # twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    stack-overflow: 6533312/seachal # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: English
-        level: Native
+    # languages:
+    #   - idiom: English
+    #     level: Native
 
-      - idiom: French
-        level: Professional
+    #   - idiom: French
+    #     level: Professional
 
-      - idiom: Spanish
-        level: Professional
+    #   - idiom: Spanish
+    #     level: Professional
 
-    interests:
-      - item: Climbing
-        link:
+    # interests:
+    #   - item: Climbing
+    #     link:
 
-      - item: Snowboarding
-        link:
+    #   - item: Snowboarding
+    #     link:
 
-      - item: Cooking
-        link:
+    #   - item: Cooking
+    #     link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      1.本人有3年以上Android产品研发,其中1年半团队合作开发，一年半独立开发2款APP独立维护3款APP,
+     开发过多款成熟产品
+      2.能够独立完成项目功能需求分析-数据库表设计-接口设计--移动端模块功能开发。
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: 网络工程学士（计算机科学与技术学院）
+      university: 聊城大学
+      time: 2012 - 2016
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -69,23 +65,23 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+    # - degree: BSc in Applied Mathematics
+    #   university: Bristol University
+    #   time: 2007 - 2011
+    #   details: |
+    #     Describe your study here lorem ipsum dolor sit amet, consectetuer
+    #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+    #     sociis natoque penatibus et magnis dis parturient montes, nascetur
+    #     ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+    #     pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+    #       - Bullet point
+    #       - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Android 开发工程师，移动端开发进度负责人
+      time: 2017.07 - 至今  1年9个月
+      company: 北京中烟信息技术有限公司
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -99,10 +95,20 @@ experiences:
 
           - Bullet point
           - Bullet point
+          - 采用Git进行代码的版本控制
+          - RxJava
+        1.封装 Fragment、 Activity 的基类，提高代码重用性
+        2.使用 RadioGroup+Fragment 搭建主界面，实现主界面切换
+        3.首页模块添加了头布局 ViewPager，实现了图片自动轮播效果,并且解决了ViewPager 嵌套 ViewPager 的事件传递的冲突。
+        4.通过事件分发机制处理冲突触摸事件
+        5.实现本地图片的上传功能
+        6.采用Glide实现图片的加载和缓存
+          - 采用Git进行代码的版本控制  
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+
+    - role: Android 开发工程师
+      time: 2016.06 - 2017.06  1年
+      company: 大连华信计算机技术股份有限公司
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -112,9 +118,22 @@ experiences:
 
           - Bullet point
           - Bullet point
+        1.封装 Fragment、 Activity 的基类，提高代码重用性
+        2.使用 RadioGroup+Fragment 搭建主界面，实现主界面切换
+        3.首页模块添加了头布局 ViewPager，实现了图片自动轮播效果,并且解决了ViewPager 嵌套 ViewPager 的事件传递的冲突。
+        4.通过事件分发机制处理冲突触摸事件
+        5.基于 PullToRefresh 开源框架实现下拉刷新、上拉加载更多，分页加载。
+        6.实现本地图片的上传功能
+        7.采用Glide实现图片的加载和缓存
+        8.使用ViewPager自定义首次打开应用的动画效果
+        9.自定义3D时间选择器控件
+        10.自定义类似微信朋友圈的发布、评论、以及点击评论时自动把ListView的焦点滑动到输入方软件上方
+        11.使用 OKHttp 进行网络数据请求, 使用 Gson 解析从服务器获取的 Json 数据
+        12.使用Jpush实现推送服务
+        13.采用Git进行代码的版本控制
 
-    - role: UI Developer
-      time: 2012 - 2014
+    - role: Java Web开发实习生
+      time: 2016.02 - 2016.04  2个月
       company: Amazon, London
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -127,52 +146,52 @@ experiences:
           - Bullet point
 
 projects:
-    title: Projects
+    title: 项目
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
+      - title: 未来终端
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
+      - title: deep （精准营销平台 App）
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
+      - title: 终端拜访
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
+      - title: 小伴 （）
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
+      - title: 大连人社局 OA 办公 App
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
 
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+#     papers:
+#       - title: The Art of Computer Programming
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
