@@ -47,9 +47,9 @@ sidebar:
 career-profile:
     title: 职业概况
     summary: |
-      本人有3年以上Android产品研发,其中1年半团队合作开发，一年半独立开发2款APP独立维护3款APP,
+      本人有2年以上Android产品开发,其中1年团队合作开发，一年半独立开发2款APP独立维护3款APP,
       开发过多款成熟产品。
-      能够独立完成项目功能需求分析-数据库表设计-接口设计-移动端模块功能开发。
+      能够独立完成项目功能需求分析-接口设计-移动端模块功能开发。
 
 education:
     - degree: 网络工程学士（计算机科学与技术学院）
@@ -79,24 +79,33 @@ education:
     #       - Bullet point
 
 experiences:
-    - role: Android 开发工程师，移动端开发进度负责人
+    - role: Android 开发工程师，移动端开发负责人
       time: 2017.07 - 至今  1年9个月
       company: 北京中烟信息技术有限公司
       details: |
-        根据项目概要设计和原型，编写 App详细设计文档。和后台一起设计 Api，最后让leader 评审。
-        评估整个项目用时，跟踪 IOS 和后台开发进度，及时汇报。
-        
-          - 采用Git进行代码的版本控制
-          - RxJava 
-          - RxBinding
-          - MPAndroidChart
-          - 封装 Fragment、 Activity 的基类，提高代码重用性
-          - 使用 RadioGroup+Fragment 搭建主界面，实现主界面切换
-          - 首页模块添加了头布局 ViewPager，实现了图片自动轮播效果,并且解决了ViewPager 嵌套 ViewPager 的事件传递的冲突。
-          - 通过事件分发机制处理冲突触摸事件
-          - 实现本地图片的上传功能
-          - 采用Glide实现图片的加载和缓存
-          - leakcanary、bugly、okhttp、retrofit、
+        主导 App 开发过程，根据项目概要设计和原型，编写 App 详细开发文档。
+        和后台一起设计 Api，最后交于技术经理评审。
+        评估整个项目用时，跟踪 IOS 和后台开发进度，及时向技术经理汇报进度。
+        给IOS工程师讲解业务逻辑，与UI设计师沟通原型和切图，有时参与Api开发。
+        Android端重要技术选型，已有Android框架优化升级，提高开发效率，根据原型自定义View
+
+
+          - 通过事件分发机制处理事件冲突
+          - RxJava + Retrofit2 + OkHttp3 做网络请求
+          - 使用 RxJava 操作符来做转化、筛选等操作
+          - 使用 RxJava 实现 JWT 身份认证失效后，网络请求失败重试机制（静默登录获取Token，然后二次请求）
+          - 使用 easypermissions 做6.0+动态权限适配
+          - 使用 RxBinding 优雅实现搜索请求
+          - 使用 Glide 实现图片的加载和缓存
+          - 使用 Bugly 异常上报
+          - 使用 leakcanary 检查内存泄漏，解决内存泄漏问题
+          - 使用 CameraView 自定义拍照功能
+          - 使用 zxing 扫码识别
+          - 基于 MPAndroidChart 定制图表
+          - ViewPager 搭配 Fragment 懒加载
+          - 自定义双栏联动 DoubleListView
+          - 自定义日历
+          - 本地文件上传
 
 
 
@@ -104,27 +113,23 @@ experiences:
       time: 2016.06 - 2017.06  1年
       company: 大连华信计算机技术股份有限公司
       details: |
-        
+        与 Android 高级开发工程师协作开发，
 
-          - 封装 Fragment、 Activity 的基类，提高代码重用性
           - 使用 RadioGroup+Fragment 搭建主界面，实现主界面切换
           - 首页模块添加了头布局 ViewPager，实现了图片自动轮播效果,并且解决了ViewPager 嵌套 ViewPager 的事件传递的冲突。
-          - 通过事件分发机制处理冲突触摸事件
           - 基于 PullToRefresh 开源框架实现下拉刷新、上拉加载更多，分页加载。
-          - 实现本地图片的上传功能
           - 采用Glide实现图片的加载和缓存
           - 使用ViewPager自定义首次打开应用的动画效果
           - 自定义3D时间选择器控件
           - 自定义类似微信朋友圈的发布、评论、以及点击评论时自动把ListView的焦点滑动到输入方软件上方
           - 使用 OKHttp 进行网络数据请求, 使用 Gson 解析从服务器获取的 Json 数据
           - 使用Jpush实现推送服务
-          - 采用Git进行代码的版本控制
 
     - role: Java Web开发实习生
       time: 2016.02 - 2016.04  2个月
       company: Amazon, London
       details: |
-        基于 Struts +  Spring + Hibernate 开发业务模块。
+        基于 Struts +  Spring + Hibernate 框架开发业务模块。
 
 
 
