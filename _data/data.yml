@@ -45,10 +45,11 @@ sidebar:
     #     link:
 
 career-profile:
-    title: 职业概况
+    title: 概况
     summary: |
-      本人有2年以上Android App 开发检验,其中1年团队合作开发，一年半独立开发2款APP独立维护2款APP,
-      开发过多款成熟产品，能够独立完成项目功能需求分析-接口设计-移动端模块功能开发。
+      有2年以上Android App 开发检验,其中半年团队合作开发，两年独立开发3款APP独立维护1款APP。开发过多款成熟产品，
+      能够独立完成项目功能需求分析-接口设计-Android端模块功能开发。
+      热爱技术，遇到技术问题喜欢用Google、stackoverflow寻找答案,或者从源码、Doc、动手实验中得到答案。
 
 education:
     - degree: 网络工程学士（计算机科学与技术学院）
@@ -83,11 +84,10 @@ experiences:
       time: 2017.07 - 至今  1年9个月
       company: 北京中烟信息技术有限公司
       details: |
-        主导 App 开发过程，根据项目概要设计和原型，编写 App 详细开发文档。
-        和后台一起设计 Api，最后交于技术经理评审。
-        评估整个项目用时，跟踪 IOS 和后台开发进度，及时向技术经理汇报进度。
-        给IOS工程师讲解业务逻辑，与UI设计师沟通原型和切图，有时参与Api开发。
-        Android端重要技术选型，已有Android框架优化升级，提高开发效率，根据原型自定义View。
+        主导 App 开发过程，根据项目概要设计和原型，编写 App 详细开发文档。 和后台人员一起设计 Api，
+        最后交于技术经理评审。评估整个项目用时，跟踪 IOS 和后台开发进度，及时向技术经理汇报进度。
+        给IOS工程师讲解业务逻辑，与UI设计师沟通原型和切图，有时参与Api开发。 Android端重要技术选型，
+        已有Android框架优化升级，提高开发效率，根据原型自定义View。
 
 
           - 通过事件分发机制处理事件冲突
@@ -133,30 +133,28 @@ experiences:
 
 
 projects:
-    title: 项目
+    title: 项目经验
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      从最初协作开发，到独立开发，再到主导移动端开发进度;自己学习能力，解决问题的能力逐步提升。
 
     assignments:
-      - title: 未来终端 （北京中烟信息技术有限公司 独立开发 开发周期三个月）
+      - title: 未来终端 （北京中烟信息技术有限公司 独立开发 2019.01-2019.03 3个月）
 #        link: "#"
         tagline: "一款面向香烟零售户 App，主要功能有:用户使用手机号注册、填写香烟基本信息获得积分、积分抽奖、奖品发放，快递跟踪。"
 
-      - title: Deep （北京中烟信息技术有限公司 独立开发 开发周期一年三个月）
+      - title: Deep （北京中烟信息技术有限公司 独立开发 2017.07-2018.12 1年6个月）
 #        link: "#"
         tagline: "一款烟草行业内部精准营销平台 App，主要功能有：智能识烟，扫码识烟，烟草工业、商业公司报表展示，预警管理，零售户位置管理。"
 
-      - title: 终端拜访 （北京中烟信息技术有限公司 独立维护开发 维护周期三个月）
+      - title: 终端拜访 （北京中烟信息技术有限公司 独立维护开发 2017.07-2018.12 1年6个月 ）
 #        link: "#"
         tagline: "一款面向烟草终端专员 App,主要功能有：针对专员考勤，专员拜访零售户管理，专员采集零售户信息，专员对零售户评分。"
 
-      - title: 小伴  （大连华信计算机技术股份有限公司 独立开发-项目未上线 开发周期三个月）
+      - title: 小伴  （大连华信计算机技术股份有限公司 独立开发-项目未上线 2016.10-2016.12 3个月）
 #        link: "#"
         tagline: "一款移动办公 App，可发布任务，发布会议通知，可查看操作自己的待办事宜、任务、需要参加的会议;可在“工作圈”分享工作生活信息"
 
-      - title: 大连人社局 OA 办公 App （大连华信计算机技术股份有限公司 协作开发 开发周期四个月）
+      - title: 大连人社局 OA 办公 App （大连华信计算机技术股份有限公司 协作开发 2016.07-2016.09 3个月）
 #        link: "#"
         tagline: "一款移动办公 App，主要有首页动画、首页登录，个人信息、待办事宜，电子邮件、通讯录、通知公告、 资料下载、电子期刊等功能，我负责登录、个人信息、通讯录、通知公告等模块"
 
@@ -181,7 +179,7 @@ projects:
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: 技能
 
     toolset:
       - name: Java&Android
