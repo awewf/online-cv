@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -47,9 +47,8 @@ sidebar:
 career-profile:
     title: 职业概况
     summary: |
-      本人有2年以上Android产品开发,其中1年团队合作开发，一年半独立开发2款APP独立维护3款APP,
-      开发过多款成熟产品。
-      能够独立完成项目功能需求分析-接口设计-移动端模块功能开发。
+      本人有2年以上Android App 开发检验,其中1年团队合作开发，一年半独立开发2款APP独立维护2款APP,
+      开发过多款成熟产品，能够独立完成项目功能需求分析-接口设计-移动端模块功能开发。
 
 education:
     - degree: 网络工程学士（计算机科学与技术学院）
@@ -87,7 +86,7 @@ experiences:
         和后台一起设计 Api，最后交于技术经理评审。
         评估整个项目用时，跟踪 IOS 和后台开发进度，及时向技术经理汇报进度。
         给IOS工程师讲解业务逻辑，与UI设计师沟通原型和切图，有时参与Api开发。
-        Android端重要技术选型，已有Android框架优化升级，提高开发效率，根据原型自定义View
+        Android端重要技术选型，已有Android框架优化升级，提高开发效率，根据原型自定义View。
 
 
           - 通过事件分发机制处理事件冲突
@@ -103,9 +102,9 @@ experiences:
           - 使用 zxing 扫码识别
           - 基于 MPAndroidChart 定制图表
           - ViewPager 搭配 Fragment 懒加载
-          - 自定义双栏联动 DoubleListView
-          - 自定义日历
-          - 本地文件上传
+          - 自定义双栏联动 DoubleListView、自定义日历等
+          - 基于位置的服务 LBS(基于百度地图Android SDK)
+
 
 
 
@@ -113,23 +112,22 @@ experiences:
       time: 2016.06 - 2017.06  1年
       company: 大连华信计算机技术股份有限公司
       details: |
-        与 Android 高级开发工程师协作开发，
+        与 Android 高级开发工程师协作开发，独立开发一款公司内部移动办公 App。
 
           - 使用 RadioGroup+Fragment 搭建主界面，实现主界面切换
           - 首页模块添加了头布局 ViewPager，实现了图片自动轮播效果,并且解决了ViewPager 嵌套 ViewPager 的事件传递的冲突。
           - 基于 PullToRefresh 开源框架实现下拉刷新、上拉加载更多，分页加载。
           - 采用Glide实现图片的加载和缓存
           - 使用ViewPager自定义首次打开应用的动画效果
-          - 自定义3D时间选择器控件
           - 自定义类似微信朋友圈的发布、评论、以及点击评论时自动把ListView的焦点滑动到输入方软件上方
           - 使用 OKHttp 进行网络数据请求, 使用 Gson 解析从服务器获取的 Json 数据
           - 使用Jpush实现推送服务
 
     - role: Java Web开发实习生
       time: 2016.02 - 2016.04  2个月
-      company: Amazon, London
+      company: 大连华信计算机技术股份有限公司
       details: |
-        基于 Struts +  Spring + Hibernate 框架开发业务模块。
+        基于 Struts +  Spring + Hibernate 框架开发业务模块。对Java Web 和 SQL 复杂查询有所了解。
 
 
 
@@ -142,7 +140,7 @@ projects:
 
     assignments:
       - title: 未来终端
-        link: "#hook"
+        link: "#"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: deep （精准营销平台 App）
