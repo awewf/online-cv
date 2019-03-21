@@ -36,15 +36,15 @@ sidebar:
 
 # 求职意向
     interests:
-      - item: 地点：成都
+      - item: 地点 成都
         link:
-      - item: 期望薪资：面议
+      - item: 期望薪资 面议
         link:
-      - item: 职能/职位：Android App 开发工程师
+      - item: 职能/职位 Android App 开发工程师
         link:
-      - item: 到岗时间：1个月左右
+      - item: 到岗时间 1个月左右
         link:
-      - item: 工作类型：全职
+      - item: 工作类型 全职
         link:
 #      - item: 目前在北京，希望可以先远程视频面试，然后在4月1-4号在成都面试
 #        link:
