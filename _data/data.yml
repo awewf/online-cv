@@ -78,7 +78,7 @@ education:
     #       - Bullet point
 
 experiences:
-      title:工作经验
+#      title:工作经验
     - role: Android 开发工程师，移动端开发负责人
       time: 2017.07 - 至今  1年9个月
       company: 北京中烟信息技术有限公司
