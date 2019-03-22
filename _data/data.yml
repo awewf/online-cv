@@ -165,15 +165,15 @@ experiences-projects:
       一款移动办公 App，可发布任务，发布会议通知，可查看操作自己的待办事宜、任务、需要参加的会议;可在“工作圈”分享工作生活信息。
 
         - 职责
-         - 采用项目组封装的网络请求框架，独立开发 Android App，，
+          - 采用项目组封装的网络请求框架，独立开发 Android App，，
         - 相关技术
-         - 使用 RadioGroup+Fragment 搭建主界面，实现主界面切换
-         - 首页模块添加了头布局 ViewPager，实现了图片自动轮播效果,并且解决了ViewPager 嵌套 ViewPager 的事件传递的冲突。
-         - 基于 PullToRefresh 开源框架实现下拉刷新、上拉加载更多，分页加载。
-         - 使用ViewPager自定义首次打开应用的动画效果
-         - 自定义类似微信朋友圈的发布、评论、以及点击评论时自动把ListView的焦点滑动到输入方软件上方
-         - 使用 OKHttp 进行网络数据请求, 使用 Gson 解析从服务器获取的 Json 数据
-         - 使用Jpush实现推送服务
+          - 使用 RadioGroup+Fragment 搭建主界面，实现主界面切换
+          - 首页模块添加了头布局 ViewPager，实现了图片自动轮播效果,并且解决了ViewPager 嵌套 ViewPager 的事件传递的冲突。
+          - 基于 PullToRefresh 开源框架实现下拉刷新、上拉加载更多，分页加载。
+          - 使用ViewPager自定义首次打开应用的动画效果
+          - 自定义类似微信朋友圈的发布、评论、以及点击评论时自动把ListView的焦点滑动到输入方软件上方
+          - 使用 OKHttp 进行网络数据请求, 使用 Gson 解析从服务器获取的 Json 数据
+          - 使用Jpush实现推送服务
 
   - role: 大连人社局 OA 办公 App
     time: 2016.7 - 2016.9  3个月
