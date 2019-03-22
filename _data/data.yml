@@ -118,15 +118,15 @@ experiences:
 
 experiences-projects:
   #      title:项目经验
-  - role: Deep
+  - role: 未来终端
       time: 2018.01 - 至今  3个月
       company: 北京中烟信息技术有限公司
       details: |
         一款面向香烟零售户 App，主要功能有:用户使用手机号注册、填写香烟基本信息获得积分、积分抽奖、奖品发放，快递跟踪。
 
-          - 职责：
+            - 职责：
             - 负责项目架构、模块开发、主导移动端开发过程
-          - 相关技术：
+            - 相关技术：
             - 绘制优化、内存优化、稳定性优化
             - RxJava2 + Retrofit2 + OkHttp3 做网络请求，熟悉 TCP、HTTP等常用网络协议
             - 使用 RxJava2 实现 JWT 身份认证失效后，网络请求失败重试机制（静默登录获取Token，然后二次请求）
