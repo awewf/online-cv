@@ -19,11 +19,18 @@
   {% for project in projects.assignments %}
     <div class="item">
 
-      <span class="project-title">
+      <!--<span class="project-title">-->
+        <!--&lt;!&ndash;注释掉项目链接&ndash;&gt;-->
+        <!--&lt;!&ndash;<a href="{{ project.link }}">{{ project.title }}</a>&ndash;&gt;-->
+          <!--{{ project.title }}-->
+      <!--</span>-->
+
+      <span class="project-title-name">
         <!--注释掉项目链接-->
         <!--<a href="{{ project.link }}">{{ project.title }}</a>-->
           {{ project.title }}
       </span>
+
 
       {% if project.tagline %}
       - <span class="project-tagline">{{ project.tagline }}</span>
