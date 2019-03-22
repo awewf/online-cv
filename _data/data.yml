@@ -22,7 +22,7 @@ sidebar:
   # twitter: '@webjeda'
   stack-overflow: 6533312/seachal # Number/Username, e.g. 123456/alandoe
     # codewars:
-    # goodreads: # Number-Username, e.g. 123456-alandoe
+  # goodreads: # Number-Username, e.g. 123456-alandoe
 
 #     languages:
 #       - idiom: English
@@ -87,54 +87,26 @@ education:
 
 experiences:
   #      title:工作经验
-  - role: Android 开发工程师，移动端开发负责人
+  - role: Android 中级开发工程师，移动端开发负责人
     time: 2017.07 - 至今  1年9个月
     company: 北京中烟信息技术有限公司
     details: |
-      主导 App 开发过程，根据项目概要设计和原型，编写 App 详细开发文档。 和后台人员一起设计 Api，
-      最后交于技术经理评审。评估整个项目用时，跟踪 IOS 和后台开发进度，及时向技术经理汇报进度。
-      给IOS工程师讲解业务逻辑，与UI设计师沟通原型和切图，有时参与Api开发。 Android端重要技术选型，
-      已有Android框架优化升级，提高开发效率，根据原型自定义View。
+      主导 App 开发过程，根据项目概要设计和原型，编写 App 详细开发文档。
+      为 IOS 和后台开发人员解答业务疑问，跟踪开发进度；与UI设计师沟通原型和切图。
+      Android 功能模块开发，Android 重要技术选型，Android框架优化升级。
+      因工作突出2018年度被评为年度优秀员工。
 
 
-        - 处理多层嵌套事件分发冲突，熟悉Android 事件分发冲突解决方案
-        - 熟悉绘制优化、内存优化、稳定性优化
-        - RxJava2 + Retrofit2 + OkHttp3 做网络请求，熟悉 TCP、HTTP等常用网络协议
-        - 使用 RxJava2 操作符来做变换、筛选、组合等操作，熟悉Java8特性
-        - 使用 RxJava2 实现 JWT 身份认证失效后，网络请求失败重试机制（静默登录获取Token，然后二次请求）
-        - 使用 easypermissions 做6.0+动态权限适配
-        - 使用 RxBinding 优雅实现表单验证、搜索请求
-        - 使用 Glide 实现图片的加载和缓存
-        - 使用 Bugly 快速发现并解决异常
-        - 使用 leakcanary 检查内存泄漏，解决内存泄漏问题
-        - 使用 CameraView、uCrop 自定义相机、拍照、相册、图片裁剪压缩上传等功能
-        - 使用 zxing 定制扫码识别功能
-        - 基于 MPAndroidChart 定制各种图表
-        - ViewPager 搭配 Fragment 懒加载
-        - 自定义双栏联动 DoubleRecyclerView、自定义日历、自定义flexbox-layout等
-        - 使用RecyclerView实现下拉刷新、上拉加载、侧滑删除、下拉菜单
-        - 基于位置的服务 LBS(基于百度地图Android SDK)
-        - 采用svn和git版本控制，熟悉 svn、git等版本控制工具
+  #    主导 App 开发过程，根据项目概要设计和原型，编写 App 详细开发文档。 和后台人员一起设计 Api，
+  #    最后交于技术经理评审。评估整个项目用时，跟踪 IOS 和后台开发进度，及时向技术经理汇报进度。
+  #    给IOS工程师讲解业务逻辑，与UI设计师沟通原型和切图，有时参与Api开发。 Android端重要技术选型，
+  #    已有Android框架优化升级，提高开发效率，根据原型自定义View。
 
-
-
-
-
-
-  - role: Android 开发工程师
+  - role: Android 初级开发工程师
     time: 2016.06 - 2017.06  1年
     company: 大连华信计算机技术股份有限公司
     details: |
       与 Android 高级开发工程师协作开发，独立开发一款公司内部移动办公 App。
-
-        - 使用 RadioGroup+Fragment 搭建主界面，实现主界面切换
-        - 首页模块添加了头布局 ViewPager，实现了图片自动轮播效果,并且解决了ViewPager 嵌套 ViewPager 的事件传递的冲突。
-        - 基于 PullToRefresh 开源框架实现下拉刷新、上拉加载更多，分页加载。
-        - 采用Glide实现图片的加载和缓存
-        - 使用ViewPager自定义首次打开应用的动画效果
-        - 自定义类似微信朋友圈的发布、评论、以及点击评论时自动把ListView的焦点滑动到输入方软件上方
-        - 使用 OKHttp 进行网络数据请求, 使用 Gson 解析从服务器获取的 Json 数据
-        - 使用Jpush实现推送服务
 
   - role: Java Web开发实习生
     time: 2016.02 - 2016.04  2个月
@@ -145,9 +117,27 @@ experiences:
 
 
 experiences-projects:
-  #      title:工作经验
+  #      title:项目经验
   - role: Deep
-    time: 2017.07 - 至今  1年9个月
+      time: 2018.01 - 至今  3个月
+      company: 北京中烟信息技术有限公司
+      details: |
+        一款面向香烟零售户 App，主要功能有:用户使用手机号注册、填写香烟基本信息获得积分、积分抽奖、奖品发放，快递跟踪。
+
+          - 职责：
+            - 负责项目架构、模块开发、主导移动端开发过程
+          - 相关技术：
+            - 绘制优化、内存优化、稳定性优化
+            - RxJava2 + Retrofit2 + OkHttp3 做网络请求，熟悉 TCP、HTTP等常用网络协议
+            - 使用 RxJava2 实现 JWT 身份认证失效后，网络请求失败重试机制（静默登录获取Token，然后二次请求）
+            - 使用 RxBinding 优雅实现表单验证、搜索请求
+            - 使用 Bugly 快速发现并解决异常
+            - 使用 leakcanary 检查内存泄漏，解决内存泄漏问题
+            - 使用RecyclerView实现下拉刷新、上拉加载、侧滑删除、下拉菜单
+            - 采用svn和git版本控制，熟悉 svn、git等版本控制工具
+
+  - role: Deep
+    time: 2017.07 - 2018.12  1年6个月
     company: 北京中烟信息技术有限公司
     details: |
       一款烟草行业内部精准营销平台 App，主要功能有：智能识烟，扫码识烟，烟草工业、商业公司报表展示，预警管理，零售户位置管理。
@@ -157,12 +147,8 @@ experiences-projects:
         - 熟悉绘制优化、内存优化、稳定性优化
         - RxJava2 + Retrofit2 + OkHttp3 做网络请求，熟悉 TCP、HTTP等常用网络协议
         - 使用 RxJava2 操作符来做变换、筛选、组合等操作，熟悉Java8特性
-        - 使用 RxJava2 实现 JWT 身份认证失效后，网络请求失败重试机制（静默登录获取Token，然后二次请求）
-        - 使用 easypermissions 做6.0+动态权限适配
-        - 使用 RxBinding 优雅实现表单验证、搜索请求
         - 使用 Glide 实现图片的加载和缓存
         - 使用 Bugly 快速发现并解决异常
-        - 使用 leakcanary 检查内存泄漏，解决内存泄漏问题
         - 使用 CameraView、uCrop 自定义相机、拍照、相册、图片裁剪压缩上传等功能
         - 使用 zxing 定制扫码识别功能
         - 基于 MPAndroidChart 定制各种图表
@@ -171,6 +157,22 @@ experiences-projects:
         - 使用RecyclerView实现下拉刷新、上拉加载、侧滑删除、下拉菜单
         - 基于位置的服务 LBS(基于百度地图Android SDK)
         - 采用svn和git版本控制，熟悉 svn、git等版本控制工具
+
+
+  - role: 小伴
+      time: 2016.06 - 2017.06  1年
+      company: 大连华信计算机技术股份有限公司
+      details: |
+         独立开发，项目最终未上线
+
+          - 使用 RadioGroup+Fragment 搭建主界面，实现主界面切换
+          - 首页模块添加了头布局 ViewPager，实现了图片自动轮播效果,并且解决了ViewPager 嵌套 ViewPager 的事件传递的冲突。
+          - 基于 PullToRefresh 开源框架实现下拉刷新、上拉加载更多，分页加载。
+          - 采用Glide实现图片的加载和缓存
+          - 使用ViewPager自定义首次打开应用的动画效果
+          - 自定义类似微信朋友圈的发布、评论、以及点击评论时自动把ListView的焦点滑动到输入方软件上方
+          - 使用 OKHttp 进行网络数据请求, 使用 Gson 解析从服务器获取的 Json 数据
+          - 使用Jpush实现推送服务
 
 
 #projects:
