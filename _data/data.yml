@@ -200,7 +200,7 @@ experiences-projects:
     company: 大连华信计算机技术股份有限公司
     details: |
        一款移动办公 App，主要有首页动画、首页登录，个人信息、待办事宜，电子邮件、通讯录、通知公告、 资料下载、电子期刊等功能。
- 
+
          - 职责
            - 我负责登录、个人信息、通讯录、通知公告等模块。
          - 相关技术
@@ -261,10 +261,10 @@ skills:
 
   toolset:
     - name: Java&Android
-      level: 70%
+      level: 75%
 
     - name: SQL
-      level: 40%
+      level: 45%
 
     - name: JavaWeb&WebApi
       level: 40%
