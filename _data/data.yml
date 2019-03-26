@@ -159,6 +159,21 @@ experiences-projects:
          - 基于位置的服务 LBS(基于百度地图Android SDK)
          - 采用svn和git版本控制，熟悉 svn、git等版本控制工具
 
+  #    - title:  （北京中烟信息技术有限公司 独立维护开发 2017.07-2018.12 1年6个月 ）
+  #      #        link: "#"
+  #      tagline: "一款面向烟草终端专员 App,主要功能有：针对专员考勤，专员拜访零售户管理，专员采集零售户信息，专员对零售户评分。"
+  #
+ - role: 终端拜访
+   time: 2017.12 - 2018.05  6个月
+   company: 北京中烟信息技术有限公司
+   details: |
+         一款面向烟草终端专员 App,主要功能有：针对专员考勤，专员拜访零售户管理，专员采集零售户信息，专员对零售户评分。
+     - 职责
+      - 阶段性的维护升级，新模块的开发，后台Api开发，负责SQL查询
+     - 相关技术
+      - 解决svg代替png的不兼容Android 4.0以下的问题，
+      - 文件上传
+      - 零售户地图位置纠正(基于百度地图Android SDK)
 
   - role: 小伴
     time: 2016.10 - 2016.12  3个月
@@ -246,13 +261,16 @@ skills:
 
   toolset:
     - name: Java&Android
-      level: 80%
+      level: 75%
 
     - name: SQL
+      level: 45%
+
+    - name: JavaWeb&WebApi
       level: 40%
 
     - name: HTML & CSS
-      level: 30%
+      level: 40%
 
     - name: Javascript
       level: 30%
