@@ -260,14 +260,14 @@ skills:
   title: 技能
 
   toolset:
-    - name: Java&Android
+    - name: Java & Android
       level: 75%
 
     - name: SQL
       level: 45%
 
-    - name: JavaWeb&WebApi
-      level: 40%
+    - name: JavaWeb & WebApi
+      level: 45%
 
     - name: HTML & CSS
       level: 40%
