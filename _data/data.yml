@@ -7,23 +7,23 @@ sidebar:
   education:  True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: 张西超
-  tagline: Android App 开发工程师
+  name: 管林森
+  tagline: Java软件工程师
   avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: zhangxichao100@gmail.com
-  phone: 13032956307
-  website: seachal.github.io  #do not add http://
+  email: m18842657091@163.com
+  phone: 18842657091
+  #website: seachal.github.io  #do not add http://
   # linkedin: alandoe
-  github: Seachal # do not add http://github.com  e.g. Seahcal
+  github: awewf # do not add http://github.com  e.g. Seahcal
   gitlab:
   bitbucket:
   # twitter: '@webjeda'
-  stack-overflow: 6533312/seachal # Number/Username, e.g. 123456/alandoe
+  #stack-overflow: 6533312/seachal # Number/Username, e.g. 123456/alandoe
     # codewars:
   # goodreads: # Number-Username, e.g. 123456-alandoe
-  weixin: qdzxcbp
+  #weixin: qdzxcbp
 
 
 #     languages:
@@ -56,14 +56,12 @@ sidebar:
 career-profile:
   title: 概况
   summary: |
-    3年开发经验，2.5年Android App 开发经验,1年小团队管理经验(管理两人)。
-    熟悉SQL、Java、多线程、常用设计模式、自定义View、RxJava、MVP、网络协议等相关技术。
-    热爱技术，遇到技术问题喜欢从Google、stackoverflow、源码、ApiDoc、编写试验案例中得到答案。
+    
 
 education:
-  - degree: 网络工程学士（计算机科学与技术学院）
-    university: 聊城大学
-    time: 2012 - 2016
+  - degree: 软件工程学士
+    university: 青岛科技大学
+    time: 2012.09 - 2016.06
     details: |
       # Describe your study here lorem ipsum dolor sit amet, consectetuer
       # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -89,32 +87,19 @@ education:
 
 experiences:
   #      title:工作经验
-  - role: Android 中级开发工程师，移动端开发负责人
-    time: 2017.07 - 至今  1年9个月
-    company: 北京中烟信息技术有限公司
-    details: |
-      主导 App 开发过程， 因工作突出2018年度被评为年度优秀员工。根据项目概要设计和原型，编写 App 详细开发文档。
-      为 IOS 和后台开发人员解答业务疑问，跟踪开发进度；与UI设计师沟通原型和切图。
-      Android 功能模块开发，Android 重要技术选型，Android框架优化升级，自定义View。
-
-
-
-  #    主导 App 开发过程，根据项目概要设计和原型，编写 App 详细开发文档。 和后台人员一起设计 Api，
-  #    最后交于技术经理评审。评估整个项目用时，跟踪 IOS 和后台开发进度，及时向技术经理汇报进度。
-  #    给IOS工程师讲解业务逻辑，与UI设计师沟通原型和切图，有时参与Api开发。 Android端重要技术选型，
-  #    已有Android框架优化升级，提高开发效率，根据原型自定义View。
-
-  - role: Android 初级开发工程师
-    time: 2016.06 - 2017.06  1年
+  - role: Java软件工程师
+    time: 2016.07 - 2019.04
     company: 大连华信计算机技术股份有限公司
     details: |
-      与 Android 高级开发工程师协作开发一款 OA 办公App，独立开发一款公司内部移动办公 App。
+        1、主要参与并完成了软件的设计、开发、测试、修改BUG等工作，其中包含了与客户需求的沟通、页面原型的设计、功能模块的详细设计、代码实现和单元测试；
+        2、撰写项目相关文档；
+        3、参与客户现场的后期维护工作。
 
   - role: Java Web开发实习生
-    time: 2016.02 - 2016.04  3个月
+    time: 2016.02-2016.05
     company: 大连华信计算机技术股份有限公司
     details: |
-      基于 Struts +  Spring + Hibernate 框架开发业务模块。对Java Web 和 SQL 复杂查询有所了解。
+     基于SpringMVC框架开发业务模块，对企业级项目开发过程有所了解。
 
 
 
