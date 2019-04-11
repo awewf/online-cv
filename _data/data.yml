@@ -245,20 +245,20 @@ skills:
   title: 技能
 
   toolset:
-    - name: Java & Android
+    - name: Java 
       level: 75%
 
-    - name: SQL
-      level: 45%
+    - name: Spring & SpringMVC & SpringBoot
+      level: 75%
 
-    - name: JavaWeb & WebApi
-      level: 45%
+    - name: Oracle & MySql
+      level: 60%
 
     - name: HTML & CSS
-      level: 40%
+      level: 50%
 
     - name: Javascript
-      level: 30%
+      level: 50%
 
 
 
