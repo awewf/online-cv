@@ -36,27 +36,12 @@ sidebar:
 #       - idiom: Spanish
 #         level: Professional
 
-# 求职意向
-#    interests:
-#      - item: 地点 成都
-#        link:
-#      - item: 期望薪资 面议
-#        link:
-#      - item: 职能/职位 Android App 开发工程师
-#        link:
-#      - item: 到岗时间 1个月左右
-#        link:
-#      - item: 工作类型 全职
-#        link:
-#      - item: 目前在北京，希望可以先远程视频面试，然后在4月1-4号在成都面试
-#        link:
-
 
 
 career-profile:
   title: 概况
   summary: |
-    
+    3年的Java Web开发经验，熟悉Java、Oracle、Spring
 
 education:
   - degree: 软件工程学士
@@ -112,9 +97,9 @@ experiences-projects:
       一款面向香烟零售户 App，主要功能有:用户使用手机号注册、填写香烟基本信息奖励积分、积分抽奖、奖品发放，快递跟踪。
 
         - 职责
-          - 负责项目架构、详细设计文档编写、画复杂逻辑流程图、模块开发、主导移动端开发过程
+          - 负责部分功能模块的需求分析、开发、测试、修改BUG等工作，其中包括撰写需求规格说明书、页面原型的设计、报表设计。
         - 相关技术
-          - MVP 架构,Model与View之间的交互由Presenter完成
+          - 
 
   - role: 智慧党建项目
     time: 2018.05 - 2018.07  
@@ -126,7 +111,7 @@ experiences-projects:
        - 职责
          - 搭建了项目的主体架构、设计表结构、后端的部分功能实现（包括移动端接口实现）、测试、修改BUG、撰写接口文档
        - 相关技术
-         - 处理嵌套事件分发冲突，熟悉Android 事件分发冲突解决方案
+         - 
 
   - role: 民政地名信息化建设
     time: 2017.09 - 2018.02  
@@ -137,7 +122,7 @@ experiences-projects:
         - 职责
           - 页面原型的设计、功能模块的代码实现、测试、项目相关文档的撰写、项目后期的现场维护。
         - 相关技术
-          - 解决svg代替png的不兼容Android 4.0以下的问题，          
+          -          
 
   - role: 民政信息化建设
     time: 2016.07 - 2017.08  
