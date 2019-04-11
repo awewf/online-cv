@@ -116,8 +116,6 @@ experiences-projects:
         - 相关技术
           - MVP 架构,Model与View之间的交互由Presenter完成
 
-
-
   - role: 智慧党建项目
     time: 2018.05 - 2018.07  
     company: 大连华信计算机技术股份有限公司
@@ -129,7 +127,6 @@ experiences-projects:
          - 搭建了项目的主体架构、设计表结构、后端的部分功能实现（包括移动端接口实现）、测试、修改BUG、撰写接口文档
        - 相关技术
          - 处理嵌套事件分发冲突，熟悉Android 事件分发冲突解决方案
-
 
   - role: 民政地名信息化建设
     time: 2017.09 - 2018.02  
