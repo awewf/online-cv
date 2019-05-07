@@ -13,7 +13,7 @@ sidebar:
 
   # Sidebar links
   email: m18842657091@163.com
-  phone: 18842657091
+  phone: 18561623584
   #website: seachal.github.io  #do not add http://
   # linkedin: alandoe
   github: awewf # do not add http://github.com  e.g. Seahcal
@@ -41,7 +41,7 @@ sidebar:
 career-profile:
   title: 概况
   summary: |
-    3年的Java Web开发经验，熟悉Java、Oracle、Spring
+    3年的Java Web开发经验，熟悉Java、Oracle、Spring、SpringMVC、SpringBoot、JavaScript等相关技术。
 
 education:
   - degree: 软件工程学士
@@ -94,7 +94,7 @@ experiences-projects:
     time:  2018.08 - 2019.04
     company: 大连华信计算机技术股份有限公司
     details: |
-      一款面向香烟零售户 App，主要功能有:用户使用手机号注册、填写香烟基本信息奖励积分、积分抽奖、奖品发放，快递跟踪。
+      该项目是基于原系统的业务基础上重新编写
 
         - 职责
           - 负责部分功能模块的需求分析、开发、测试、修改BUG等工作，其中包括撰写需求规格说明书、页面原型的设计、报表设计。
