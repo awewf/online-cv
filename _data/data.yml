@@ -113,7 +113,6 @@ experiences-projects:
          - 整合Swagger2对后端接口进行测试
          - 整合JWT实现Token验证
          - 整合Spring-data-jpa操作数据库
-         - 整合FastJson实现json解析
 
   - role: 民政地名信息化建设
     time: 2017.09 - 2018.02  
