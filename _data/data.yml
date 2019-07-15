@@ -72,6 +72,14 @@ education:
 
 experiences:
   #      title:工作经验
+  
+  - role: 客户化开发
+    time: 2019.06 - 2019.07
+    company: 金蝶软件（中国）有限公司青岛分公司
+    details: |
+        1、利用SHR报表工具开发报表。
+        2、学习公司的EAS、BOS开发工具。
+  
   - role: Java软件工程师
     time: 2016.07 - 2019.04
     company: 大连华信计算机技术股份有限公司
