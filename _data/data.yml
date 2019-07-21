@@ -119,7 +119,7 @@ experiences-projects:
        - 职责
          - 搭建了项目的主体架构、设计表结构、后端的部分功能实现（包括移动端接口实现）、测试、修改BUG、撰写接口文档
        - 相关技术
-         - 整合Swagger2对后端接口进行测试
+         - 整合Swagger2生成接口文档
          - 整合JWT实现Token验证
          - 整合Spring-data-jpa操作数据库
 
